@@ -28,7 +28,7 @@ backbone-bootstrap-modal library.
 
 # With thanks to:
 
-Jason Morrison
-Sascha Schwabbauer
-Adam Anderson
+* Jason Morrison
+* Sascha Schwabbauer
+* Adam Anderson
 

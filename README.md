@@ -26,7 +26,7 @@ backbone-bootstrap-modal library.
 
 # Step 3: Rock and roll.
 
-# With thanks to:
+## With thanks to:
 
 * Jason Morrison
 * Sascha Schwabbauer

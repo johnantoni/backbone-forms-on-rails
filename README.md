@@ -1,3 +1,5 @@
+[![johnantoni/backbone-forms-on-rails API Documentation](https://www.omniref.com/github/johnantoni/backbone-forms-on-rails.png)](https://www.omniref.com/github/johnantoni/backbone-forms-on-rails)
+
 backbone-forms-on-rails
 =======================
 
